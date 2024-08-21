@@ -1,0 +1,9 @@
+
+v
+java:S1118":Add a private constructor to hide the implicit public one.(×¼­ÆJ$598c105a-4eda-49b1-befa-5d4b42d7f50e
+y
+java:S6437"6Revoke and change this password, as it is compromised.(†±àÜ8Ý„äŒ—2J$98b23a45-9431-481b-820a-f7e0c9c2fb3b
+k	java:S106"+Replace this use of System.out by a logger.(¼ß¯‡ÿÿÿÿÿJ$3e22b6a2-68e0-42c1-b574-56842dfe445b
+k	java:S106"+Replace this use of System.err by a logger.(ˆˆµÈþÿÿÿÿJ$f99f13c5-5775-4992-b64b-0b4f2af37cf3
+t
+java:S1128",Remove this unused import 'java.sql.Driver'.(”óäŠÿÿÿÿÿ8‚†åŒ—2J$92535f17-9897-4357-acf2-ab4c4269b6a1
